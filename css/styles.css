@@ -13,7 +13,7 @@ html, body {
   text-align: center; 
 
   opacity: 1;
-  transition: 15s opacity;
+  transition: 12s opacity;
 }
 
 body.fade-out {
@@ -100,6 +100,9 @@ a:active  {
   background: -o-linear-gradient(top, #2cbedf 0%, #e5d8b9 100%);
   background: -ms-linear-gradient(top, #2cbedf 0%, #e5d8b9 100%);
   background: linear-gradient(top, #2cbedf 0%, #e5d8b9 100%); }
+
+.back {
+  background: #05c6d1; }
 
 .current {
   -moz-opacity: 0;
